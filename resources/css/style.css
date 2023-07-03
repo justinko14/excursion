@@ -8,6 +8,17 @@ body {
     font-weight: normal;
     font-size: 50px;
     color: white;
+} 
+
+.header-title{
+    font-weight: 300;
+    font-size: 41px;
+    color: white;
+} 
+
+.header-desc{
+    font-size: 21px;
+    color: gray;
 }
 
 .link-cta{
