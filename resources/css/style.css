@@ -1,9 +1,11 @@
+/* BODY */
 body {
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* HEADER */
 .header-main{
     font-weight: normal;
     font-size: 50px;
@@ -21,11 +23,13 @@ body {
     color: gray;
 }
 
+/* LINKS CTA (Click to Action */
 .link-cta{
     color: aquamarine;
     font-size: 16px;
 }
 
+/* FOOTER */
 .copyright{
     text-align: right;
     color: gray;
